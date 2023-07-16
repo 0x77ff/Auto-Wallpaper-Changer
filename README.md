@@ -8,7 +8,7 @@ Simple Setup\
 Prerequisites: \
 An installation of python \
 Pyinstaller \
-A Code editor\
+A Code editor
 
 Steps: \
 Get the wallpaperchange.py script. Either download it or make a new file\
